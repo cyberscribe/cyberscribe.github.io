@@ -1,3 +1,9 @@
+<!--
+  This file is the homepage of quaderni.robertpeake.com.
+  GitHub Pages serves README.md as the site root in the absence of index.md / index.html.
+  Keep the filename as README.md and do not introduce an index.* file that would supersede it.
+-->
+
 # Quaderni
 
 *Notebooks.*
