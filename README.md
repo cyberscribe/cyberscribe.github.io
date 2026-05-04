@@ -1,27 +1,28 @@
-# cyberscribe.github.io
+# Quaderni
 
-A small static site for publishing markdown-format research notes, technical write-ups, and long-form working material that doesn't fit neatly on [robertpeake.com](https://www.robertpeake.com/).
+*Notebooks.*
 
-The main site stays the front door for poetry, public writing, and professional work. This space is the workshop adjacent to it — drafts, experiments, reference notes, and project documentation kept in plain markdown and version control.
+Working notes, sketches, and investigations across the things I'm currently making, learning, or thinking through. Kept in plain markdown and version control; published here as a companion to [robertpeake.com](https://www.robertpeake.com/), which remains the front door for finished work.
 
-## What lives here
+The name follows Leonardo's *quaderni* — the loose collection of notebooks in which he mixed observation, calculation, design, and fragment without separating disciplines. The form suits how I actually work: a poem next to a circuit diagram next to a woodblock print. Polish belongs on the main site; this is the bench.
 
-- **Research notes** — investigations into productivity systems, AI tooling, GTD-adjacent practice, and the intersections between them.
-- **Technical write-ups** — embedded systems, Chrome extensions, projection design, generative pipelines, and other maker projects.
-- **Project documentation** — supplementary material for things linked from robertpeake.com: code repositories, build notes, design rationales.
-- **Working drafts** — material that benefits from a public URL before (or instead of) becoming a polished post on the main site.
+## What you'll find here
 
-## Why markdown, why GitHub Pages
+- **Research notes** — productivity systems, AI tooling, GTD-adjacent practice, and what happens where they meet.
+- **Technical write-ups** — embedded sensors and controllers, browser extensions, projection design, generative pipelines, small games.
+- **Project documentation** — supplementary material for things linked from the main site or from [github.com/cyberscribe](https://github.com/cyberscribe).
+- **Working drafts** — material that benefits from a public URL before, or instead of, becoming a polished post.
+- **Sketches and fragments** — half-formed observations kept where I can find them again.
 
-Markdown in a git repository keeps the source authoritative, diffable, and portable. GitHub Pages publishes it without a build step or hosting fee. The trade-off — limited theming, no CMS — is intentional: the constraint keeps the focus on writing and reference rather than presentation.
+Material here is in motion. Some of it will land on robertpeake.com once it's settled; some will stay here as reference; some will be wrong and get rewritten in place.
 
-## Structure
+## Finding things
 
-The repository is currently flat. As content accumulates, expect topical directories (`research/`, `projects/`, `notes/`) with their own indexes. New material will be linked from this page.
+The collection is currently flat. As notebooks accumulate, expect topical sections — each with its own index — linked from this page.
 
 ## About
 
-Robert Peake — poet, GTD® Workflow Coach and Trainer with [Next Action Associates](https://www.next-action.co.uk/team/robert-peake), and persistent maker. Based in the UK.
+Robert Peake — poet, technologist, and persistent maker. Based in the UK.
 
 - Main site: [robertpeake.com](https://www.robertpeake.com/)
 - Code: [github.com/cyberscribe](https://github.com/cyberscribe)
